@@ -4,7 +4,7 @@
 
 #### 1-1 host (=end system) 
 
-호스트는 인터넷의 모든 사용자 application을 가리키며 컴퓨터 이외의 최근에는 스마트폰, 테블릿 pc 등 많은 기기들도 포함한다.
+호스트는 인터넷의 모든 사용자 application을 가리키며 최근에는 컴퓨터 이외의 스마트폰, 테블릿 pc 등 많은 기기들도 포함한다.
 
 #### 1-2 packet switches
 
@@ -21,7 +21,7 @@
 
 ## 2. A closer look at network structure
 
-### Access netoworks and physical media
+### Access networks and physical media
 
 - [x] 대역폭 Bandwidth (bits per second)
 - [x] 공유하는 또는 독점적인 Shared or Dedicated
